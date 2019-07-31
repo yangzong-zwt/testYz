@@ -8,6 +8,7 @@ public class YztestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(YztestApplication.class, args);
+		System.out.println("程序启动主入口");
 	}
 
 }
